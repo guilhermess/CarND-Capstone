@@ -15,7 +15,7 @@ Team
 | Zhao Lang                         | eltoshan\@gmail.com       |
 | Oisin Dolphin                     | dolphino\@tcd.ie          |
 | Jin Kurumisawa                    | kurumi722\@gmail.com      |
-| Fabio Takemura                    | fabio.takemura\@gmail.com |
+
 
 
 System Architecture
